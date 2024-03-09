@@ -1,12 +1,12 @@
 <h1>Hi, I'm Harsimar! <br/><a href="https://github.com/HarshKandhari">Programmer</a>, <a href="linkedin.com/in/harsimar-kandhari-45aa381b8">Cybersecurity Enthusiast</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
-- <b>PowerShell</b>
+- <b>Cybersecurity</b>
   - [Active Directory Bulk User Creation](https://github.com/sgdgw)
   - [FIM (File Integrity Monitor)](https://github.com/efwefs)
 
-- <b>Python</b>
+- <b>Programming</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/jfasa)
 
 
