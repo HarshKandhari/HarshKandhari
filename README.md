@@ -3,8 +3,8 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Cybersecurity</b>
-  - [Active Directory Bulk User Creation](https://github.com/sgdgw)
-  - [FIM (File Integrity Monitor)](https://github.com/efwefs)
+  - [Active Directory Home Lab Setup](https://github.com/sgdgw)
+  - [Network Analysis using Wireshark](https://github.com/efwefs)
 
 - <b>Programming</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/jfasa)
