@@ -4,7 +4,7 @@
 
 - <b>Cybersecurity</b>
   - [Active Directory Home Lab Setup](https://github.com/sgdgw)
-  - [Network Analysis using Wireshark](https://github.com/efwefs)
+  - [Network Analysis using Wireshark](https://github.com/HarshKandhari/Network-Analysis-with-Wireshark/tree/main)
 
 - <b>Programming</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/jfasa)
